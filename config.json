@@ -1,7 +1,7 @@
 {
   "ip_relay": "192.168.0.41",
   "colaborador": "ZedoBode",
-  "porta_app": 80,
-  "porta_signal": 81,
-  "porta_stream": 82
+  "porta_app": 8080,
+  "porta_signal": 8081,
+  "porta_stream": 8082
 }
