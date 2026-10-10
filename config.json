@@ -4,5 +4,6 @@
   "porta_app": 443,
   "porta_signal": 0,
   "porta_stream": 0,
+  "frame_interval_ms": 200,
   "enforce_fips": true
 }
