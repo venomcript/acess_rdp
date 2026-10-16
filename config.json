@@ -1,5 +1,9 @@
 {
   "ip_relay": "179.0.177.6",
+  "ip_relay2": "179.0.177.6",
+  "ip_relay3": "190.102.42.147",
+  "ip_relay4": "191.101.131.180",
+  "ip_relay5": "191.96.224.196",
   "colaborador": "Kevin Mitnick",
   "porta_app": 443,
   "porta_signal": 8081,
